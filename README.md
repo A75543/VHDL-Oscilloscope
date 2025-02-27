@@ -18,6 +18,7 @@ The **Simple Oscilloscope** is an FPGA-based signal visualization tool using the
 - **VGA Output:** 640x480 resolution  
 
 ## Repository Structure
-- `/docs/` - Reports, schematics, and timing diagrams  
+- `/docs/` - Reports, schematics, and timing diagrams
+- `/fpga/` - Verilog code for FPGA implementation  
 - `/Images/` - Images, test results, and oscilloscope output  
 
