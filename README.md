@@ -19,5 +19,5 @@ The **Simple Oscilloscope** is an FPGA-based signal visualization tool using the
 
 ## Repository Structure
 - `/docs/` - Reports, schematics, and timing diagrams  
-- `/assets/` - Images, test results, and oscilloscope output  
+- `/Images/` - Images, test results, and oscilloscope output  
 
